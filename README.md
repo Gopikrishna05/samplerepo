@@ -1,1 +1,2 @@
 # samplerepo
+Checking the commands
